@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "https://github.com/HerOeshouldDIE",
+            "request": "launch",
+            "url": "https://github.com/HerOeshouldDIE/To-Do-List-Interactive"
+        }
+    ]
+}
